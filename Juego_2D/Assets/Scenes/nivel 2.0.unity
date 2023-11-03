@@ -29271,6 +29271,22 @@ PrefabInstance:
       propertyPath: tiempoNivel
       value: 60
       objectReference: {fileID: 0}
+    - target: {fileID: 7894966752077311963, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 177.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 7894966752077311963, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -59.204956
+      objectReference: {fileID: 0}
+    - target: {fileID: 7894966752365877700, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -177.62012
+      objectReference: {fileID: 0}
+    - target: {fileID: 7894966752365877700, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -59.204956
+      objectReference: {fileID: 0}
     - target: {fileID: 7894966753465261737, guid: 32f77b737adf046e0819dc0ff52f14a4, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: nivel 2.0
@@ -29410,7 +29426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2364798976004102848, guid: daa6165bb1ea245d9ab6f72904b160b8, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2364798976004102851, guid: daa6165bb1ea245d9ab6f72904b160b8, type: 3}
       propertyPath: m_RootOrder
